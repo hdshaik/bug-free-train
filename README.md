@@ -6,3 +6,5 @@ In this course, you will learn how to use GitHub Successfully
 - sample item1
 - sample item2
 - sample item3
+- sample item4
+- sample item5
